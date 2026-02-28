@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Native Relative Mode Ultimate (Stable Fixed)
- * Description: 稳定版：前台相对化、后台/登录页安全、动态Host/信任Host、递归锁修复OOM。
+ * Description: 稳定版：前台相对化、后台/登录页安全、动态Host/信任Host、递归锁修复OOM.
  * Version: 1.0.1
  * Author: jjh138792
  * License: GPLv2 or later
