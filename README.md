@@ -68,4 +68,3 @@
 
 **License**: GPL-2.0-or-later  
 **作者**: Jjh (@Jjh138792)  
-**革命口号**: 80wp，从被WP搞疯，到搞疯WP。
