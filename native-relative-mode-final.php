@@ -221,7 +221,7 @@ add_action('template_redirect', function() {
     if ($reqHost === '' || in_array($reqHost, $trusted, true)) return;
 
     $target = jjh_current_scheme() . '://' . $trusted[0] . ($_SERVER['REQUEST_URI'] ?? '/');
-    wp_safe_redirect($target, 301);
+    wp_safe_redirect($target, 302);
     exit;
 }, 0);
 
