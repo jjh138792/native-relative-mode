@@ -29,7 +29,7 @@
 
 ## 安装 & 使用
 
-1. 下载ZIP或 `git clone` 到 `/wp-content/plugins/native-relative-mode-ultimate`
+1. 下载ZIP→WP插件页面→上传插件→安装插件
 2. 后台搜索 “Native Relative Mode Ultimate” 并激活
 3. 进入 **设置 → Relative Mode** 配置：
    - 禁用固定Host / 信任Host列表
