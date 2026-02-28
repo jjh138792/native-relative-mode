@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Native Relative Mode Pro (Source-Data Mode)
- * Description: 输出层相对化 + 源数据入库相对化 + 可选绝对前缀URL + Canonical/Cookie设置。
+ * Description: 输出层相对化 + 源数据入库相对化 + 可选绝对前缀URL + Canonical/Cookie设置.
  */
 if (!defined('ABSPATH')) exit;
 
